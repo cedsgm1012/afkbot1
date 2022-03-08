@@ -2,5 +2,5 @@
 	"ip":"hardcoreuwu321.aternos.me",
 	"port": "16544",
 	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
